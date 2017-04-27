@@ -1,2 +1,2 @@
-print 'I am a Test lua file'
-print 'ºÙºÙ£¬ÕæÓÐÈ¤'
+ï»¿print 'I am a Test lua file'
+print 'å˜¿å˜¿ï¼ŒçœŸæœ‰è¶£'
